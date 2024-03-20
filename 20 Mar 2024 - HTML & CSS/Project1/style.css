@@ -1,0 +1,104 @@
+body
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card
+{
+    width:520px;
+    height:315px;
+    background-color: black;
+    border-radius:25px;
+}
+
+.header
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: spacing-between;
+}
+
+.pic1
+{
+    height: 35px;
+    width:55px;
+    margin-top:15px;
+    margin-left:15px;
+}
+
+.pic2
+{
+    margin-left:360px;
+    margin-top:13px;
+    height:35px;
+    width:55px;
+}
+
+.name
+{
+    margin-left:-400px;
+    color:white;
+    margin-top:20px;
+    font-size:19px;
+    font-weight: 5px;
+}
+
+.semi-header
+{
+    display:flex;
+    flex-direction: column;
+    margin-top:80px;
+    margin-left:25px;
+}
+
+.cardnumber
+{
+    color:white;
+    font-size:25px;
+}
+
+.number{
+    color:white;
+    margin-top:15px;
+    font-size:25px;
+    letter-spacing: 0.33em;
+}
+
+.low-header
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+    margin-left:28px;
+    
+}
+.name2{
+    color:white;
+    font-size: 30px;
+    font-weight:5px;
+}
+
+.two
+{
+    display:flex;
+    flex-direction: column;
+    margin-left:215px;
+    line-height: 1.3;
+    font-size:25px;
+}
+
+.validthru
+{
+    color:white;
+    font-size:20px;
+    margin-top:-10px;
+}
+
+.date
+{
+    color:white;
+    
+}
